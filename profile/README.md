@@ -1,6 +1,8 @@
 # Java Backend Architecture
 
-Reference implementations of backend architecture patterns. Each repository explores one concept in isolation — structure, boundaries, design decisions.
+Reference implementations of backend architecture patterns. 
+
+Each repository explores one concept in isolation — structure, boundaries, design decisions.
 
 ## Focus areas
 
